@@ -1,0 +1,7 @@
+.ingredients__show{
+    display : flex;
+    flex-direction : column;
+}
+.button__ingredients{
+    margin-bottom: 10px;
+}

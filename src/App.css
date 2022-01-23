@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+
+.recipes {
+ 
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+ 
+  justify-content: center;
+  align-items: flex-start;
+}
